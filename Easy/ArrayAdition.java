@@ -6,8 +6,8 @@ because 4 + 6 + 10 + 3 = 23. The array will not be empty, will not contain all t
 
 contain negative numbers. 
 */
-import java.util.*; 
 import java.io.*;
+import java.util.*;
 
 class Function {  
   boolean ArrayAdditionI(int[] arr) { 
