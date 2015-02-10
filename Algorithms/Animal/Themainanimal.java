@@ -17,7 +17,7 @@ public class Themainanimal {
         Cat morris = new Cat("Morris", "Tuna", "Rubber Mouse");
 
         // Print out the name, favFood and favToy
-        System.out.println(morris.getName());
+        System.out.println(morris.name);
         //System.out.println(morris.favFood);
         //System.out.println(morris.favToy);
 

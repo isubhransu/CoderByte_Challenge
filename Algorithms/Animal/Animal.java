@@ -2,7 +2,7 @@ package Animal;
 
 
 public class Animal {
-    private String name = "Animal";
+    protected String name = "Animal";
     	    public String favFood = "Food";
             	    // You use protected when you want to allow subclasses
             	    // To be able to access methods or fields

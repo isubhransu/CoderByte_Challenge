@@ -10,6 +10,7 @@ public class Cat extends Animal{
     // You can add new fields to the subclass
     public String favToy = "Yarn";
     // You can add new methods
+    
     public void playWith() {
         System.out.println("Yeah " + favToy);
     }
